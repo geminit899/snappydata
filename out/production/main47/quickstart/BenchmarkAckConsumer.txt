@@ -1,3 +1,0 @@
-
-Please start the BenchmarkAckProducer, and press Enter when the benchmark finishes.
-Closing the cache and disconnecting.

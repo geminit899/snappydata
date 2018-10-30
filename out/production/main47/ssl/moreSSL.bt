@@ -1,2 +1,0 @@
-// Test events/serialEntryEvent with ssl.
-ssl/sslSerialEntryEvent.conf conserveSockets=false

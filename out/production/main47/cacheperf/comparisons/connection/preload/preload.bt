@@ -1,5 +1,0 @@
-cacheperf/comparisons/connection/connectExplicit.conf
-  bounceVm = true vmType = client
-  createCacheAndRegion = true useCacheXml = false
-  version = default
-  perffmwk.comparisonKey = connect

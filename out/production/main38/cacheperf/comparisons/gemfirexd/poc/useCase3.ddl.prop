@@ -1,2 +1,0 @@
-ddlFileName = useCase3.basic.sql
-txIsolation = read_committed

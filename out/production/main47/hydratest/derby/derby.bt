@@ -1,2 +1,0 @@
-hydratest/derby/derby.conf
-  manageDerbyServer = true, false

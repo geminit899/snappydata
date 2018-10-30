@@ -1,4 +1,0 @@
-cacheperf/comparisons/gemfirexd/tpcc/peerClient/tpccPeerMem.conf
-  indexFileNum = 1,2
-cacheperf/comparisons/gemfirexd/tpcc/peerClient/tpccPeerMemCompressed.conf
-  indexFileNum = 1,2

@@ -1,3 +1,0 @@
-peerHosts = 8
-peerVMsPerHost = 1
-peerThreadsPerVM = 1

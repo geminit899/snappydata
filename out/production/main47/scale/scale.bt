@@ -1,1 +1,0 @@
-scale/longRunning.conf hydra.numHosts = 4 vmQuantities = 2 vmThreads = 10 

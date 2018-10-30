@@ -1,4 +1,0 @@
-//simple DDL test
-sql/testCompareResults.conf
-host=pnq-gst-dev03
-port=1528

@@ -1,1 +1,0 @@
-create diskstore WAN 'wan' autocompact false;

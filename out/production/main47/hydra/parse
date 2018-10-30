@@ -1,1 +1,0 @@
-java -cp $GEMFIRE/lib/gemfire.jar:$CLASSPATH -DJTESTS=$JTESTS -Dgemfire.home=$GEMFIRE hydra.ConfigParser $1

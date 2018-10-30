@@ -1,2 +1,0 @@
-gfxdperf.tpch.TPCHPrms-indexes = 
-;

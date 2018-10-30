@@ -1,3 +1,0 @@
-cacheperf/gemfire/evict/memLRUEvictVMReg.conf
-cacheperf/gemfire/evict/txMemLRUEvictVMReg.conf
-cacheperf/gemfire/evict/txTTLEvictVMReg.conf

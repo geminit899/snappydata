@@ -1,4 +1,0 @@
-// Use with -Dlocal.conf=local.udp.conf
-// est. runtime: 6 hrs
-
-include $JTESTS/regression/transport.bt

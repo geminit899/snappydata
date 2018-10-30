@@ -1,2 +1,0 @@
-java -classpath $JTESTS:$GEMFIRE/lib/gemfire.jar -DJTESTS=$JTESTS perffmwk.PerfSorter puts-*
-java -classpath $JTESTS:$GEMFIRE/lib/gemfire.jar -DJTESTS=$JTESTS perffmwk.PerfSorter putOneKey-*

@@ -1,6 +1,0 @@
-include $JTESTS/pdx/diskRecoveryPdx.bt
-include $JTESTS/pdx/queryPdx.bt
-include $JTESTS/pdx/cqPdx.bt
-include $JTESTS/pdx/wanPdx.bt
-include $JTESTS/pdx/functionPdx.bt
-include $JTESTS/pdx/versioningPdx.bt

@@ -1,7 +1,0 @@
-SET CURRENT SCHEMA=SEC_OWNER;
-
-CREATE PROCEDURE SEC_OWNER.boPurgeStoredProc ()
-LANGUAGE JAVA
-PARAMETER STYLE JAVA
-MODIFIES SQL DATA DYNAMIC RESULT SETS 1
-EXTERNAL NAME 'cacheperf.comparisons.gemfirexd.useCase1.src.bopurge.proc.BOPurgeProc.purge';

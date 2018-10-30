@@ -1,2 +1,0 @@
-ddlFileName = useCase3.drop.sql
-txIsolation = read_committed

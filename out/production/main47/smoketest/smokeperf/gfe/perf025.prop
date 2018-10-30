@@ -1,8 +1,0 @@
-A = creator
-creatorHosts        = 1
-creatorVMsPerHost   = 1
-creatorThreadsPerVM = 1
-
-dataSize = 100
-
-perffmwk.comparisonKey = perf025

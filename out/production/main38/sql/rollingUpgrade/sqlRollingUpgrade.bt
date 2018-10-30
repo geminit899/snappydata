@@ -1,2 +1,0 @@
-INCLUDE $JTESTS/sql/rollingUpgrade/sqlRollingUpgradeReplicate.bt
-INCLUDE $JTESTS/sql/rollingUpgrade/sqlRollingUpgradePartition.bt

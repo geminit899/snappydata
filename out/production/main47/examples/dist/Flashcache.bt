@@ -1,2 +1,0 @@
-examples/dist/Flashcache.conf
-examples/dist/FlashcacheMain.conf onlyOnPlatforms=SunOS,Linux
